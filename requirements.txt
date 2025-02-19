@@ -1,0 +1,14 @@
+agno
+pypdf
+lancedb
+ollama
+fastapi
+uvicorn
+tantivy==0.22.0
+pandas
+duckduckgo-search
+arxiv 
+sqlalchemy 
+fastapi
+axa
+streamlit
