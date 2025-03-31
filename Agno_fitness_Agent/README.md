@@ -1,7 +1,6 @@
 
 # AI Health & Fitness Planner
 
-![Fitness Planner Banner](https://raw.githubusercontent.com/username/repo/main/assets/banner.png)
 
 ## 🚀 Overview
 
