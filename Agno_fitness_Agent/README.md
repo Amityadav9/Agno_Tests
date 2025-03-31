@@ -48,7 +48,7 @@ Key features include:
 
 5. Run the application:
    ```bash
-   streamlit run fitness_planner.py
+   streamlit run fitness_coach.py
    ```
 
 ## 🖥️ Usage
@@ -119,11 +119,6 @@ The application uses specialized AI agents:
 - Get timestamp references to specific parts of videos
 - Download analysis summaries for future reference
 
-## 📱 Screenshots
-
-![Plan Generator](https://raw.githubusercontent.com/username/repo/main/assets/screenshot-plan.png)
-
-![Video Analysis](https://raw.githubusercontent.com/username/repo/main/assets/screenshot-video.png)
 
 ## 📚 How It Works
 
